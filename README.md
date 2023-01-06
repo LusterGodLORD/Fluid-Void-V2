@@ -18,4 +18,4 @@ Prefix is "+".
 
 Coded by VoidFlux#4634.
 
-Direct invite link: <a href="https://discord.com/api/oauth2/authorize?client_id=1060665899557847082&permissions=8&scope=bot"></a>
+[Direct Bot invite link](https://discord.com/api/oauth2/authorize?client_id=1060665899557847082&permissions=8&scope=bot)
