@@ -16,6 +16,6 @@ Please read to full doc to see the entire list of commands.
 
 Prefix is "+".
 
-Coded by $teve#1117
+Coded by shapes#0803
 
 [Direct Bot invite link](https://discord.com/api/oauth2/authorize?client_id=1060665899557847082&permissions=8&scope=bot)
