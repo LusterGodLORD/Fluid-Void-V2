@@ -1,7 +1,7 @@
 # Shaped v1
 A new multi-purpose discord bot. Includes a vast variety of unique features and the essentials for your discord server.
 
-![alt text](https://i.ibb.co/hdXGT3m/Screenshot-20230106-150718.jpg)
+![alt text](https://i.ibb.co/sqHhmCm/images-51.jpg)
 Some functions of this bot:
 
 - Recover deleted messages. ✓
